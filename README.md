@@ -1,6 +1,6 @@
 # Wallet Dashboard
 
-Простое Web3-приложение на React + TypeScript + Wagmi + Ant Design, которое позволяет:
+Приложение на React + TypeScript + Wagmi + Ant Design, которое позволяет:
 
 1. Подключать кошелек через [wagmi]
 
@@ -24,10 +24,10 @@
 
 ## Реализация
 
-✅ `Подключение кошелька` (использует useAccount() и useConnect())
-✅ `Отключение кошелька` (через useDisconnect())
-✅ `Получение замоканной цены ETH` (использует fetchEthPrice.ts)
-✅ `UI на Ant Design`
+- ✅ `Подключение кошелька` (использует useAccount() и useConnect())
+- ✅ `Отключение кошелька` (через useDisconnect())
+- ✅ `Получение замоканной цены ETH` (использует fetchEthPrice.ts)
+- ✅ `UI на Ant Design`
 
 ## Что не работает
 
